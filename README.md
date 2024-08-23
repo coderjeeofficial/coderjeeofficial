@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **react Native**
 
-- 👨‍💻 All of my projects are available at [https://github.com/CoderBabaJee/](https://github.com/CoderJee/)
+- 👨‍💻 All of my projects are available at [https://github.com/CoderJee/](https://github.com/coderjeeofficial/)
 
 - 📝 I regularly write articles on [https://trendblow.blogspot.com/](https://trendblow.blogspot.com/)
 
